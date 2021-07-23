@@ -1,4 +1,4 @@
-﻿namespace MathpixCsharp
+﻿namespace MathpixCsharpU
 {
     partial class login
     {

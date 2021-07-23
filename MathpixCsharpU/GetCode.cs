@@ -9,7 +9,7 @@ using System.Drawing;
 using System.Net.Http.Headers;
 using System.Windows.Forms;
 
-namespace MathpixCsharp
+namespace MathpixCsharpU
 {
     public class DataOptions
     {

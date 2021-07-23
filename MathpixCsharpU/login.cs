@@ -11,7 +11,7 @@ using System.Windows.Forms;
 using MaterialSkin;
 using MaterialSkin.Controls;
 
-namespace MathpixCsharp
+namespace MathpixCsharpU
 {
     public partial class login : MaterialForm
     {
