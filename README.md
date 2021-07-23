@@ -1,13 +1,13 @@
 # MathpixCsharp: C#实现的Mathpix Windows开源客户端
 
-应该不会有外国用户所以就只写中文README了（雾）
+原版见 https://github.com/itewqq/MathpixCsharp 
 
 ![使用演示](/images/demo1.gif)
 
 ## 功能支持：
 
 - [x] 截图识别公式转换为Latex代码
-- [x] 截图识别公式转换为Office Word公式
+- [x] 截图识别公式转换为Office Word公式 （Word 的墨迹版本做公式也很棒，就是不能能支持 Latex 转换）
 - [x] 手写公式识别支持
 - [x] 多显示器支持
 - [x] 最小化到系统托盘
